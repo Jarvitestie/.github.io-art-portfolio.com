@@ -39,7 +39,7 @@ img{
 border-radius: 120px;
 }
 <!--Not working at the moment!-->
-img:not(images/img.2454){
+img:not(img.2454){
 	border-radius: none;
 }
 	
