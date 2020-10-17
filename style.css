@@ -1,0 +1,45 @@
+body{ 
+background:#f1f9f9;
+}
+h1{
+color: #3d84a8;
+font-family: verdana;
+font-size:20;
+}
+p{
+color: #3d84a8; 
+font-family: verdana;
+}
+hr { 
+border-color: #3fc1c9;
+border-style: none;
+border-top:dotted;
+border-top-color: #3fc1c9;
+Width: 75px;
+}
+h5 {
+color: #3d84a8;
+font-family: verdana;
+}
+button {
+color: blue;
+}
+button:hover {
+background-color: rgba(35, 195, 243, 0.555);
+color: red;
+}
+li{
+color: #3d84a8;
+}
+a {
+color: #3d84a8;
+font: black;
+}
+img{
+border-radius: 120px;
+}
+<!--Not working at the moment!-->
+img:not(images/img.2454){
+	border-radius: none;
+}
+	
